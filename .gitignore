@@ -1,0 +1,4 @@
+.direnv
+*.iso
+*.qcow2
+*.gz
